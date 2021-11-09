@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{0046311A-2B51-4094-B757-479A22CFFA08}|Default">
+  <MonoDevelop.Ide.ItemProperties.CICDProject FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CICDProject.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CICDProject.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

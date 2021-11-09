@@ -1,0 +1,15 @@
+/Users/shilpa/Desktop/CICD/CICDProject/CICDProject/bin/Debug/netstandard2.0/CICDProject.deps.json
+/Users/shilpa/Desktop/CICD/CICDProject/CICDProject/bin/Debug/netstandard2.0/CICDProject.dll
+/Users/shilpa/Desktop/CICD/CICDProject/CICDProject/bin/Debug/netstandard2.0/ref/CICDProject.dll
+/Users/shilpa/Desktop/CICD/CICDProject/CICDProject/bin/Debug/netstandard2.0/CICDProject.pdb
+/Users/shilpa/Desktop/CICD/CICDProject/CICDProject/obj/Debug/netstandard2.0/CICDProject.csproj.AssemblyReference.cache
+/Users/shilpa/Desktop/CICD/CICDProject/CICDProject/obj/Debug/netstandard2.0/CICDProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shilpa/Desktop/CICD/CICDProject/CICDProject/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/shilpa/Desktop/CICD/CICDProject/CICDProject/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/shilpa/Desktop/CICD/CICDProject/CICDProject/obj/Debug/netstandard2.0/CICDProject.AssemblyInfoInputs.cache
+/Users/shilpa/Desktop/CICD/CICDProject/CICDProject/obj/Debug/netstandard2.0/CICDProject.AssemblyInfo.cs
+/Users/shilpa/Desktop/CICD/CICDProject/CICDProject/obj/Debug/netstandard2.0/CICDProject.csproj.CoreCompileInputs.cache
+/Users/shilpa/Desktop/CICD/CICDProject/CICDProject/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/shilpa/Desktop/CICD/CICDProject/CICDProject/obj/Debug/netstandard2.0/CICDProject.dll
+/Users/shilpa/Desktop/CICD/CICDProject/CICDProject/obj/Debug/netstandard2.0/ref/CICDProject.dll
+/Users/shilpa/Desktop/CICD/CICDProject/CICDProject/obj/Debug/netstandard2.0/CICDProject.pdb
